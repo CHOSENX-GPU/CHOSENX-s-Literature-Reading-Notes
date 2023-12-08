@@ -582,7 +582,7 @@
   frame=none,
   tabsize=2}
 
-\addbibresource[location=local]{reference.bib}
 
+\addbibresource[location=local]{references.bib}
 % restore the tt default family to lmodern tt family
 \renewcommand\ttdefault{lmtt}
